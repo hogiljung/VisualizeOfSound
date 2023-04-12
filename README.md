@@ -1,9 +1,9 @@
 # VisualizeOfSound
  # 프로젝트 소개
-   ## 1) 기획 의도
+   ## 1. 기획 의도
      - 주변 소리와 음성을 시각적으로 보여주어 난청인에게 도움을 주고자 함.
 
-   ## 2) 작품 내용
+   ## 2. 작품 내용
     (1) 소리의 시각화
      - 스마트폰 화면을 통해 소리의 방향을 볼 수 있음.
      - 소리의 분류를 통해 어떤 소리인지 알 수 있음.
@@ -11,9 +11,9 @@
     (2) 위험 알림
      - 위험한 소리 인식 시 시각, 진동으로 알려줌.
      
-   ## 3) 구성도
+   ## 3. 구성도
     (1) S/W 구성도
-     <img width="503" alt="무제" src="https://user-images.githubusercontent.com/112647829/231381143-df9ce604-65a5-4934-9067-b6d7f97c1281.png">
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/112647829/231383139-ef06fe25-2d68-400a-b0fb-1b98eec21e82.png">
 
      - Front-end는 Android를 사용. 
      - Back-end의 EC2에서 실행 중인 Go 언어를 이용한 서버와 Socket 통신하게 된다.
