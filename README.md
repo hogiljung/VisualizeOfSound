@@ -43,4 +43,5 @@
  ## 3. 결과물 이미지
    <img width="634" alt="image" src="https://user-images.githubusercontent.com/112647829/231382165-b50c1118-5d53-4fe3-b32e-54aaa7044b10.png">
 
- 
+ ## 4. 수상
+  - 2021 한이음 엑스포, 동상
